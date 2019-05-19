@@ -1,3 +1,5 @@
 Rencana Konten kedepannya
 - JavaSript
+  * Framework JavaScript
+  * ES6
 - PHP Framework
